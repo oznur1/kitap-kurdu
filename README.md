@@ -3,10 +3,10 @@ This project is a book management application developed with React.js. I created
 
 # Project Features:
 - Dynamic Book List: Book data retrieved from the API is rendered dynamically on the screen.
--  -Book Search: Users can filter books using the search bar.
--  - Sorting Options: Ability to list books according to A-Z / Z-A order.
-   - -Book Detail Page: A dynamic detail page was created for each book using React Router DOM.
-   - - Multi-Page Structure: I created a multi-page application with React Router DOM and moved between pages with Link & NavLink structures.
+- Book Search: Users can filter books using the search bar.
+- Sorting Options: Ability to list books according to A-Z / Z-A order.
+- Book Detail Page: A dynamic detail page was created for each book using React Router DOM.
+- Multi-Page Structure: I created a multi-page application with React Router DOM and moved between pages with Link & NavLink structures.
 
 # Technologies Used:
 ⭐ React
